@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stabgoblin
 - 👀 I’m interested in pretty much everything computer related excluding databases :)
 - 🌱 I’m currently learning html,java,c,cpp etc.
-- 💞️ I’m looking to collaborate on nothing :)
+- ♥️ I’m looking to collaborate on anything :)
 - 📫 How to reach me : pushoffgolem@gmail.com
 
 <!---
