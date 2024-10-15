@@ -2,7 +2,7 @@
 - 👀 I’m interested in pretty much everything computer related excluding databases :)
 - 🌱 I’m currently learning html,java,c,cpp etc.
 - ♥️ I’m looking to collaborate on anything :)
-- 📫 How to reach me : pushoffgolem@gmail.com
+- 📫 personal email : amrit71082@gmail.com
 
 <!---
 stabgoblin/stabgoblin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
